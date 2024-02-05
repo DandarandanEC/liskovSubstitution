@@ -1,0 +1,14 @@
+C:\Users\Dan Edward\source\repos\SOLID_PRINCIPLES\liskovSubstitution\liskovSubstitution\bin\Debug\net7.0\liskovSubstitution.exe
+C:\Users\Dan Edward\source\repos\SOLID_PRINCIPLES\liskovSubstitution\liskovSubstitution\bin\Debug\net7.0\liskovSubstitution.deps.json
+C:\Users\Dan Edward\source\repos\SOLID_PRINCIPLES\liskovSubstitution\liskovSubstitution\bin\Debug\net7.0\liskovSubstitution.runtimeconfig.json
+C:\Users\Dan Edward\source\repos\SOLID_PRINCIPLES\liskovSubstitution\liskovSubstitution\bin\Debug\net7.0\liskovSubstitution.dll
+C:\Users\Dan Edward\source\repos\SOLID_PRINCIPLES\liskovSubstitution\liskovSubstitution\bin\Debug\net7.0\liskovSubstitution.pdb
+C:\Users\Dan Edward\source\repos\SOLID_PRINCIPLES\liskovSubstitution\liskovSubstitution\obj\Debug\net7.0\liskovSubstitution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dan Edward\source\repos\SOLID_PRINCIPLES\liskovSubstitution\liskovSubstitution\obj\Debug\net7.0\liskovSubstitution.AssemblyInfoInputs.cache
+C:\Users\Dan Edward\source\repos\SOLID_PRINCIPLES\liskovSubstitution\liskovSubstitution\obj\Debug\net7.0\liskovSubstitution.AssemblyInfo.cs
+C:\Users\Dan Edward\source\repos\SOLID_PRINCIPLES\liskovSubstitution\liskovSubstitution\obj\Debug\net7.0\liskovSubstitution.csproj.CoreCompileInputs.cache
+C:\Users\Dan Edward\source\repos\SOLID_PRINCIPLES\liskovSubstitution\liskovSubstitution\obj\Debug\net7.0\liskovSubstitution.dll
+C:\Users\Dan Edward\source\repos\SOLID_PRINCIPLES\liskovSubstitution\liskovSubstitution\obj\Debug\net7.0\refint\liskovSubstitution.dll
+C:\Users\Dan Edward\source\repos\SOLID_PRINCIPLES\liskovSubstitution\liskovSubstitution\obj\Debug\net7.0\liskovSubstitution.pdb
+C:\Users\Dan Edward\source\repos\SOLID_PRINCIPLES\liskovSubstitution\liskovSubstitution\obj\Debug\net7.0\liskovSubstitution.genruntimeconfig.cache
+C:\Users\Dan Edward\source\repos\SOLID_PRINCIPLES\liskovSubstitution\liskovSubstitution\obj\Debug\net7.0\ref\liskovSubstitution.dll
